@@ -16,12 +16,6 @@ The website focuses on clean UI, responsive layouts, and an engaging user experi
 
 
 
-## 🚀 Live Demo
-
-**GitHub Pages:**  
-https://dudu21cs.github.io/Synent-task2-ResponsiveLandingPage-DuresaChemeda/
-
-
 ---
 
 ## ✨ Features
