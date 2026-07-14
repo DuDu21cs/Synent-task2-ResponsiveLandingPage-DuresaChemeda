@@ -125,7 +125,7 @@ Open `index.html` in your browser.
 **Duresa Chemeda**
 
 - GitHub: https://github.com/DuDu21cs
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: https://www.linkedin.com/in/duresa-chemeda-66a28a411
 
 ---
 
